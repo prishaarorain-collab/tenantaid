@@ -1,6 +1,6 @@
 # TenantAid: AI-Powered Tenant Rights Triage for Alameda County
 
-> **UN SDG 1: No Poverty** | Built for BUS/MIS Fundamentals · Spring 2026  
+> **No Poverty** | Spring 2026  
 > AI Capabilities: Structured Data Extraction (Lab 2) + Text Generation (Lab 1)
 
 ---
